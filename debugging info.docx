@@ -1,0 +1,11 @@
+1. go install github.com/go-delve/delve/cmd/dlv@latest
+
+2. dlv debug path/to/your/main.go
+
+3. Set Breakpoints
+    break main.go:10
+
+4. continue
+
+5. Inspect Variables
+    print variable
