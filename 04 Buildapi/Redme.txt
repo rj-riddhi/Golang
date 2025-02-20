@@ -1,0 +1,3 @@
+Simple CRUD operation of course module
+Used slices as a dummy db
+Used mux as a routes
